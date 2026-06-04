@@ -1,10 +1,10 @@
-# 🟡 Pac-Man in Java
+# Pac-Man in Java
 
 Riproduzione del classico videogioco PacMan sviluppata interamente in Java
 
 ---
 
-## 🎮 Come si gioca
+## Come si gioca
 
 | Tasto | Azione |
 |-------|--------|
@@ -18,7 +18,7 @@ Ogni puntino vale **10 punti**. Hai **3 vite** a disposizione.
 
 ---
 
-## 👻 I Fantasmi
+## I Fantasmi
 
 Ogni fantasma ha un comportamento unico ispirato al gioco originale del 1980:
 
@@ -31,7 +31,7 @@ Ogni fantasma ha un comportamento unico ispirato al gioco originale del 1980:
 
 ---
 
-## 🗂️ Struttura del progetto
+## Struttura del progetto
 
 ```
 Pacman/
@@ -46,14 +46,14 @@ Pacman/
 
 ---
 
-## ⚙️ Requisiti
+## Requisiti
 
 - **Java** 11 o superiore
 - **Libreria ZGL** (`GraficaSemplice`) configurata nel classpath
 
 ---
 
-## 🚀 Come eseguire
+## Come eseguire
 
 1. Clona il repository:
    ```bash
